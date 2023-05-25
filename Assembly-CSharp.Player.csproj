@@ -63,10 +63,8 @@
     <Compile Include="Assets\Script\1NabiScene\TriggerDialog.cs" />
     <Compile Include="Assets\Asset\CoffeeShopStarterPack\Scripts\FillCupHelper.cs" />
     <Compile Include="Assets\Asset\CoffeeShopStarterPack\Scripts\ServeOrder.cs" />
-    <Compile Include="Assets\Script\1NabiScene\ObjectDragAndDrop.cs" />
     <Compile Include="Assets\Asset\CoffeeShopStarterPack\Scripts\Utilities\BasicGameEvents.cs" />
     <Compile Include="Assets\Script\1NabiScene\SmoothCamera.cs" />
-    <Compile Include="Assets\Script\1NabiScene\ClickCharacter.cs" />
     <Compile Include="Assets\Asset\LowPolyLight\Effect\Bloom.cs" />
     <Compile Include="Assets\Asset\CoffeeShopStarterPack\Scripts\CookingGameObject.cs" />
     <Compile Include="Assets\Asset\CoffeeShopStarterPack\Scripts\OrderGenerator.cs" />
