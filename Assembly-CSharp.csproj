@@ -88,6 +88,8 @@
     <Compile Include="Assets\Asset\CoffeeShopStarterPack\Scripts\DeleteProductOnSlot.cs" />
     <Compile Include="Assets\Script\1NabiScene\DialogManager.cs" />
     <Compile Include="Assets\Asset\CoffeeShopStarterPack\Scripts\HeatableProduct.cs" />
+    <Compile Include="Assets\Script\1NabiScene\Option.cs" />
+    <Compile Include="Assets\Script\1NabiScene\CupUI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
